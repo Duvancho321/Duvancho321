@@ -4,7 +4,7 @@
 
 
 ## Scientific contributions
-- [Forecasting PM2.5 concentrations using machine learning approaches: added value of low-cost monitoring and regional modeling]([https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/](https://meetingorganizer.copernicus.org/EGU24/EGU24-1214.html))
+- [Forecasting PM2.5 concentrations using machine learning approaches: added value of low-cost monitoring and regional modeling](https://meetingorganizer.copernicus.org/EGU24/EGU24-1214.html))
 - [Calibration of Low-Cost Sensor for Particulate Matter in an urban area of the Aburrá Valley](https://ieeexplore.ieee.org/document/9703400)
 - [Deserción estudiantil UNAL Medellín: análisis con R](https://github.com/rday-colombia/2019/blob/main/documentos/Memorias/Loaiza%20et%20al.(2019).pdf)
 
@@ -55,8 +55,7 @@ Doctoral program   someday  ▒░░░░░░░░░░░░░░░░�
 
 - 🔭 I’m currently working on SIATA (data Analyst)
 
-<! -- y 
-
+<! -- 
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
@@ -74,4 +73,6 @@ Doctoral program   someday  ▒░░░░░░░░░░░░░░░░�
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
