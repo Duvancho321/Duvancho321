@@ -1,6 +1,6 @@
 ### Hola bienvenido a mi github :stuck_out_tongue_closed_eyes:
 
-
+![<Duvancho321>'s Stats](https://github-readme-stats.vercel.app/api?username=<Duvancho321>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 <!--
