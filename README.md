@@ -41,11 +41,32 @@
 
 </details>
 
-Here are some ideas to get you started:
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,ubuntu,py,r,mysql,postgres,latex,html,css,vscode)](https://skillicons.dev)
+
+## Degree
+```txt
+College            7 year   ██████████████████████▓░░   63.26 %
+Master's program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Doctoral program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+```
+
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SIATA (data Analyst)
 
 <! -- y 
+
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
