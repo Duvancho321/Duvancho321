@@ -46,7 +46,7 @@
 
 ## Degree
 ```txt
-College            7 year   ██████████████████████▓░░   80.01 %
+College            7 years  ██████████████████████▓░░   80.01 %
 Master's program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Doctoral program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
