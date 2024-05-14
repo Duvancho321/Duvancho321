@@ -46,7 +46,7 @@
 
 ## Degree
 ```txt
-College            7 year   ██████████████████████▓░░   63.26 %
+College            7 year   ██████████████████████▓░░   80.01 %
 Master's program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Doctoral program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
@@ -55,7 +55,7 @@ Doctoral program   someday  ▒░░░░░░░░░░░░░░░░�
 
 - 🔭 I’m currently working on SIATA (data Analyst)
 
-<! -- 
+< -- 
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
