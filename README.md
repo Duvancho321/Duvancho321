@@ -4,7 +4,7 @@
 
 
 ## Scientific contributions
-- [Forecasting PM2.5 concentrations using machine learning approaches: added value of low-cost monitoring and regional modeling](https://meetingorganizer.copernicus.org/EGU24/EGU24-1214.html))
+- [Forecasting PM2.5 concentrations using machine learning approaches: added value of low-cost monitoring and regional modeling](https://meetingorganizer.copernicus.org/EGU24/EGU24-1214.html)
 - [Calibration of Low-Cost Sensor for Particulate Matter in an urban area of the Aburrá Valley](https://ieeexplore.ieee.org/document/9703400)
 - [Deserción estudiantil UNAL Medellín: análisis con R](https://github.com/rday-colombia/2019/blob/main/documentos/Memorias/Loaiza%20et%20al.(2019).pdf)
 
@@ -46,7 +46,7 @@
 
 ## Degree
 ```txt
-College            7 years  ██████████████████████▓░░   80.01 %
+College            7 years  ███████████████████████▓░   89.01 %
 Master's program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Doctoral program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
