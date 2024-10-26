@@ -41,6 +41,19 @@
 
 </details>
 
+<details>
+
+<summary>2024 </summary>
+
+  - <a href="https://duvancho321.github.io/presentaciones/UNAL/CIVCC_DuvanNieves_Final.pdf" target="_blank">Presentación
+    II Congreso Internacional De Variabilidad y Cambio Climático :
+    DINÁMICA DE ESTRUCTURAS CONVECTIVAS EN CICLONES TROPICALES: UN
+    ESTUDIO MULTIDIMENSIONAL DE CASOS DE INTENSIFICACIÓN RÁPIDA Y NO
+    RÁPIDA USANDO IMÁGENES SATELITALES INFRARROJAS DE ALTA RESOLUCIÓN
+    </a>
+
+</details>
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,ubuntu,py,r,mysql,postgres,latex,html,css,vscode)](https://skillicons.dev)
 
