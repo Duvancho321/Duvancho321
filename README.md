@@ -4,6 +4,8 @@
 
 
 ## Scientific contributions
+- [Characterizing Asymmetric Convection In Rapidly Vs. Non-Rapidly Intensifying Tropical Cyclones Using IR Imagery: An Emphasis On Predictability](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/450758)
+- [Enhancing PM2.5 Forecasts with Machine Learning: Comparative Analysis of Global and Regional Models Integrated with Low-Cost Sensor Networks](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/450817)
 - [Forecasting PM2.5 concentrations using machine learning approaches: added value of low-cost monitoring and regional modeling](https://meetingorganizer.copernicus.org/EGU24/EGU24-1214.html)
 - [Calibration of Low-Cost Sensor for Particulate Matter in an urban area of the Aburrá Valley](https://ieeexplore.ieee.org/document/9703400)
 - [Deserción estudiantil UNAL Medellín: análisis con R](https://github.com/rday-colombia/2019/blob/main/documentos/Memorias/Loaiza%20et%20al.(2019).pdf)
