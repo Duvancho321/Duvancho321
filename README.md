@@ -21,15 +21,32 @@
 - [Datos_de_miercoles](https://github.com/Duvancho321/Datos_de_miercoles)
 
 ## Slides
-<details>
-<summary>
-2020
-</summary>
 
--   <a href="https://duvancho321.github.io/presentaciones/AMET/am.html" target="_blank">Presentación
-    AMET : Basico R y Python</a>
+<details>
+<summary>2025 </summary>
+
+  - <a href="[https://duvancho321.github.io/presentaciones/UNAL/CIVCC_DuvanNieves_Final.pdf](https://duvancho321.github.io/presentaciones/UNAL/Ecologia_numerica/Expo_DS.html#/)" target="_blank">Presentación
+    II Congreso Internacional De Variabilidad y Cambio Climático :
+    DINÁMICA DE ESTRUCTURAS CONVECTIVAS EN CICLONES TROPICALES: UN
+    ESTUDIO MULTIDIMENSIONAL DE CASOS DE INTENSIFICACIÓN RÁPIDA Y NO
+    RÁPIDA USANDO IMÁGENES SATELITALES INFRARROJAS DE ALTA RESOLUCIÓN
+    </a>
 
 </details>
+
+<details>
+<summary>2024 </summary>
+
+  - <a href="https://duvancho321.github.io/presentaciones/UNAL/CIVCC_DuvanNieves_Final.pdf" target="_blank">Presentación
+    II Congreso Internacional De Variabilidad y Cambio Climático :
+    DINÁMICA DE ESTRUCTURAS CONVECTIVAS EN CICLONES TROPICALES: UN
+    ESTUDIO MULTIDIMENSIONAL DE CASOS DE INTENSIFICACIÓN RÁPIDA Y NO
+    RÁPIDA USANDO IMÁGENES SATELITALES INFRARROJAS DE ALTA RESOLUCIÓN
+    </a>
+
+</details>
+
+
 <details>
 <summary>
 2021
@@ -45,17 +62,19 @@
 </details>
 
 <details>
+<summary>
+2020
+</summary>
 
-<summary>2024 </summary>
-
-  - <a href="https://duvancho321.github.io/presentaciones/UNAL/CIVCC_DuvanNieves_Final.pdf" target="_blank">Presentación
-    II Congreso Internacional De Variabilidad y Cambio Climático :
-    DINÁMICA DE ESTRUCTURAS CONVECTIVAS EN CICLONES TROPICALES: UN
-    ESTUDIO MULTIDIMENSIONAL DE CASOS DE INTENSIFICACIÓN RÁPIDA Y NO
-    RÁPIDA USANDO IMÁGENES SATELITALES INFRARROJAS DE ALTA RESOLUCIÓN
-    </a>
+-   <a href="https://duvancho321.github.io/presentaciones/AMET/am.html" target="_blank">Presentación
+    AMET : Basico R y Python</a>
 
 </details>
+
+
+
+
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,ubuntu,py,r,mysql,postgres,latex,html,css,vscode)](https://skillicons.dev)
