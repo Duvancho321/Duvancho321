@@ -25,12 +25,10 @@
 <details>
 <summary>2025 </summary>
 
-  - <a href="[https://duvancho321.github.io/presentaciones/UNAL/CIVCC_DuvanNieves_Final.pdf](https://duvancho321.github.io/presentaciones/UNAL/Ecologia_numerica/Expo_DS.html#/)" target="_blank">Presentación
-    II Congreso Internacional De Variabilidad y Cambio Climático :
-    DINÁMICA DE ESTRUCTURAS CONVECTIVAS EN CICLONES TROPICALES: UN
-    ESTUDIO MULTIDIMENSIONAL DE CASOS DE INTENSIFICACIÓN RÁPIDA Y NO
-    RÁPIDA USANDO IMÁGENES SATELITALES INFRARROJAS DE ALTA RESOLUCIÓN
+  - <a href="https://duvancho321.github.io/presentaciones/UNAL/Ecologia_numerica/Expo_DS.html" target="_blank">Presentación
+    Presentación de Distancia D13 y Similitud S11
     </a>
+
 
 </details>
 
