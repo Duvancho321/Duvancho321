@@ -85,7 +85,7 @@ Master's program   someday  ▒░░░░░░░░░░░░░░░░�
 Doctoral program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
-## Here are some ideas to get you started:
+## Work
 
 - 🔭 I’m currently working on SIATA (data Analyst)
 
