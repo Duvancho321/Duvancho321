@@ -25,10 +25,11 @@
 <details>
 <summary>2025 </summary>
 
+  - <a href="https://docs.google.com/presentation/d/e/2PACX-1vRIA4NfLdMBA0HWUXreom1PBgI8k0TE9SF3RkBUOhVmVFW59kiUbnzEZZsfQjUK3-ammIi71BIZTCMb/pub?start=true&loop=true&delayms=60000" target="_blank">MJO Preconditioning of Low-Level Static Stability
+    </a>
+
   - <a href="https://duvancho321.github.io/presentaciones/UNAL/Ecologia_numerica/Expo_DS.html" target="_blank">Presentación
     Presentación de Distancia D13 y Similitud S11
-    </a>
-  - <a href="https://docs.google.com/presentation/d/e/2PACX-1vRIA4NfLdMBA0HWUXreom1PBgI8k0TE9SF3RkBUOhVmVFW59kiUbnzEZZsfQjUK3-ammIi71BIZTCMb/pub?start=true&loop=true&delayms=60000" target="_blank">MJO Preconditioning of Low-Level Static Stability
     </a>
 
 </details>
