@@ -1,113 +1,158 @@
-### Hola bienvenido a mi github :stuck_out_tongue_closed_eyes:
+# 👋 Hey! Soy Duvan Nieves
+### 🌦️ Data Scientist | Meteorología & Machine Learning | Calidad del Aire
+> Transformando datos ambientales en conocimiento desde Medellín 🇨🇴
+>
+> <div align="center">
 
-![<Duvancho321>'s Stats](https://github-readme-stats.vercel.app/api?username=Duvancho321&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duvancho321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duvancho321&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
+</div>
 
-## Scientific contributions
-- [Characterizing Asymmetric Convection In Rapidly Vs. Non-Rapidly Intensifying Tropical Cyclones Using IR Imagery: An Emphasis On Predictability](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/450758)
-- [Enhancing PM2.5 Forecasts with Machine Learning: Comparative Analysis of Global and Regional Models Integrated with Low-Cost Sensor Networks](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/450817)
-- [Forecasting PM2.5 concentrations using machine learning approaches: added value of low-cost monitoring and regional modeling](https://meetingorganizer.copernicus.org/EGU24/EGU24-1214.html)
-- [Calibration of Low-Cost Sensor for Particulate Matter in an urban area of the Aburrá Valley](https://ieeexplore.ieee.org/document/9703400)
-- [Deserción estudiantil UNAL Medellín: análisis con R](https://github.com/rday-colombia/2019/blob/main/documentos/Memorias/Loaiza%20et%20al.(2019).pdf)
+---
 
-## Some projects
-- [Dashboard developed for FAC (Colombian Air Force) during my employment](https://simfac.fac.mil.co/dashboard/) - I participated in the development of a data visualization dashboard (intellectual property of FAC).
-- [Material Cursos Unal Medellín](https://duvancho321.github.io/Material-Unal/)
-- [Curso R](https://github.com/Duvancho321/Curso_R)
-- [Experimento Ecologia General](https://duvancho321.github.io/EcologiaGeneral/)
+## 💼 Actualmente
 
-## Participations
-- [Tidytuesday](https://github.com/Duvancho321/Tidyuesday)
-- [Datos_de_miercoles](https://github.com/Duvancho321/Datos_de_miercoles)
+🔭 **Data Analyst** en [SIATA](https://siata.gov.co) (Sistema de Alerta Temprana de Medellín)  
+🎓 **Universidad Nacional de Colombia** - Medellín  
+🌱 Aprendiendo sobre: Deep Learning aplicado a Ciencias Atmosféricas  
+📫 **ORCID:** [0000-0002-1002-7800](https://orcid.org/0000-0002-1002-7800)
 
-## Slides
+---
 
-<details>
-<summary>2025 </summary>
+## 🔬 Investigación Científica
 
-  - <a href="https://docs.google.com/presentation/d/e/2PACX-1vRIA4NfLdMBA0HWUXreom1PBgI8k0TE9SF3RkBUOhVmVFW59kiUbnzEZZsfQjUK3-ammIi71BIZTCMb/pub?start=true&loop=true&delayms=60000" target="_blank">MJO Preconditioning of Low-Level Static Stability
-    </a>
+Mis investigaciones se centran en el análisis de datos atmosféricos y calidad del aire usando técnicas avanzadas de Machine Learning:
 
-  - <a href="https://duvancho321.github.io/presentaciones/UNAL/Ecologia_numerica/Expo_DS.html" target="_blank">Presentación
-    Presentación de Distancia D13 y Similitud S11
-    </a>
+- 🌪️ **[Characterizing Asymmetric Convection In Rapidly Vs. Non-Rapidly Intensifying Tropical Cyclones Using IR Imagery: An Emphasis On Predictability](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/450758)**
+-   - Análisis de estructuras convectivas en ciclones tropicales con imágenes satelitales IR
+ 
+    - - 🌫️ **[Enhancing PM2.5 Forecasts with Machine Learning: Comparative Analysis of Global and Regional Models Integrated with Low-Cost Sensor Networks](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/450817)**
+      -   - Pronóstico de contaminación del aire con redes de sensores de bajo costo
+       
+          - - 📊 **[Forecasting PM2.5 concentrations using machine learning approaches](https://meetingorganizer.copernicus.org/EGU24/EGU24-1214.html)**
+            -   - Valor agregado del monitoreo de bajo costo y modelación regional
+             
+                - - 🌆 **[Calibration of Low-Cost Sensor for Particulate Matter in an urban area of the Aburrá Valley](https://ieeexplore.ieee.org/document/9703408)**
+                  -   - Calibración de sensores para material particulado en áreas urbanas
+                   
+                      - - 🎓 **[Deserción estudiantil UNAL Medellín: análisis con R](https://github.com/rday-colombia/2019/blob/main/documentos/Memorias/Loaiza%20et%20al.(2019).pdf)**
+                        -   - Análisis estadístico de deserción estudiantil
+                         
+                            - ---
 
-</details>
+                            ## 🛠️ Tech Stack
 
-<details>
-<summary>2024 </summary>
+                            <div align="center">
 
-  - <a href="https://duvancho321.github.io/presentaciones/UNAL/CIVCC_DuvanNieves_Final.pdf" target="_blank">Presentación
-    II Congreso Internacional De Variabilidad y Cambio Climático :
-    DINÁMICA DE ESTRUCTURAS CONVECTIVAS EN CICLONES TROPICALES: UN
-    ESTUDIO MULTIDIMENSIONAL DE CASOS DE INTENSIFICACIÓN RÁPIDA Y NO
-    RÁPIDA USANDO IMÁGENES SATELITALES INFRARROJAS DE ALTA RESOLUCIÓN
-    </a>
+                            ### Lenguajes & Herramientas
 
-</details>
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 
+                            **Data Science:** 🐼 Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+                            **Cloud & Tools:** ☁️ Git • Jupyter • LaTeX • RMarkdown • Flexdashboard
 
-<details>
-<summary>
-2021
-</summary>
+                            </div>
 
--   <a href="https://duvancho321.github.io/presentaciones/SIATA/R1.html" target="_blank">Presentación
-    SIATA : Rstudio, Rmarkdown</a>
--   <a href="https://duvancho321.github.io/presentaciones/SIATA/R2.html" target="_blank">Presentación
-    SIATA : Rmarkdown</a>
--   <a href="https://duvancho321.github.io/presentaciones/SIATA/R3.html" target="_blank">Presentación
-    SIATA : Flexdashboard</a>
+                            ---
 
-</details>
+                            ## 📊 Algunos Proyectos
 
-<details>
-<summary>
-2020
-</summary>
+                            ### 🏢 Profesionales
+                            - **Dashboard FAC (Colombian Air Force)** - Participé en el desarrollo de un dashboard de visualización de datos (propiedad intelectual de FAC)
 
--   <a href="https://duvancho321.github.io/presentaciones/AMET/am.html" target="_blank">Presentación
-    AMET : Basico R y Python</a>
+                            ### 📚 Académicos & Educativos
+                            - 📘 [Material Cursos Unal Medellín](https://github.com/Duvancho321) - Recursos educativos
+                            - - 📈 [Curso R](https://github.com/Duvancho321) - Material didáctico
+                              - - 🌿 [Experimento Ecología General](https://github.com/Duvancho321) - Análisis ecológicos
+                               
+                                - ### 🌐 Participaciones en Comunidades
+                                - - 📊 [#TidyTuesday](https://github.com/Duvancho321) - Visualizaciones de datos semanales
+                                  - - 📉 [#DatosDeMiércoles](https://github.com/Duvancho321) - Comunidad hispanohablante de R
+                                   
+                                    - ---
 
-</details>
+                                    ## 🎤 Presentaciones & Charlas
 
+                                    <details>
+                                      <summary><b>📅 2025</b>b></summary>summary>
+                                    
+                                    - 🌊 **MJO Preconditioning of Low-Level Static Stability** - Análisis de precondicionamiento atmosférico
+                                    - - 📐 **Presentación de Distancia D13 y Similitud S11** - Métricas de análisis
+                                      -
+                                      - </details>
 
+                                      <details>
+                                        <summary><b>📅 2024</b>b></summary>summary>
+                                      
+                                      - 🌪️ **II Congreso Internacional De Variabilidad y Cambio Climático**
+                                      -   *"DINÁMICA DE ESTRUCTURAS CONVECTIVAS EN CICLONES TROPICALES: UN ESTUDIO MULTIDIMENSIONAL DE CASOS DE INTENSIFICACIÓN RÁPIDA Y NO RÁPIDA USANDO IMÁGENES SATELITALES INFRARROJAS DE ALTA RESOLUCIÓN"*
+                                      -
+                                      -   </details>
 
-
-
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,ubuntu,py,r,mysql,postgres,latex,html,css,vscode)](https://skillicons.dev)
-
-## Degree
-```txt
-College            7 years  ████████████████████████▓   97.10 %
-Master's program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Doctoral program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-```
-
-## Work
-
-- 🔭 I’m currently working on SIATA (data Analyst)
-
-<!-- 
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p>
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
+                                      <details>
+                                        <summary><b>📅 2020-2021</b>b></summary>summary>
+                                   
+                                        - 📊 **Presentación SIATA: Rstudio & Rmarkdown** (2021)
+                                        - - 📑 **Presentación SIATA: Rmarkdown** (2021)
+                                          - - 📈 **Presentación SIATA: Flexdashboard** (2021)
+                                            - - 🐍 **Presentación AMET: Básico R y Python** (2020)
+                                             
+                                              - </details>
+                                   
+                                              ---
+                                   
+                                              ## 🎯 Formación Académica
+                                   
+                                              ```text
+                                              College           ████████████████████████▓ 97.10%  (7 años)
+                                              Master's program  ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.00%  (en proceso)
+                                              Doctoral program  ▒░░░░░░░░░░░░░░░░░░░░░░░░ 01.00%  (futuro)
+                                              ```
+                                   
+                                              ---
+                                   
+                                              ## 🌟 Contribuciones Recientes
+                                   
+                                              <!--START_SECTION:activity-->
+                                              <!--END_SECTION:activity-->
+                                   
+                                              <div align="center">
+                                   
+                                              ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duvancho321&theme=tokyonight&hide_border=true&background=1a1b27)
+                                   
+                                              </div>
+                                   
+                                              ---
+                                   
+                                              ## 📫 Conectemos
+                                   
+                                              <div align="center">
+                                   
+                                              [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1002-7800)
+                                              [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duvancho321)
+                                              [![Personal Site](https://img.shields.io/badge/Website-duvancho321.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://duvancho321.github.io)
+                                   
+                                              </div>
+                                   
+                                              ---
+                                   
+                                              <div align="center">
+                                   
+                                              ### 💭 Fun Facts
+                                   
+                                              ☕ Programo mejor con café
+                                              🎵 Música lo-fi mientras codifico
+                                              🌤️ Cada día reviso el pronóstico del tiempo (¡es mi trabajo!)
+                                              📊 Creo que los gráficos bonitos hacen más feliz al mundo
+                                   
+                                              ---
+                                   
+                                              *"Transformando datos en conocimiento, un commit a la vez"* ☁️
+                                   
+                                              ![Visitor Count](https://komarev.com/ghpvc/?username=Duvancho321&color=blueviolet&style=flat-square&label=Visitantes)
+                                   
+                                              </div>
+                                      </summary>
+                                      </summary>
+                                    </details>
