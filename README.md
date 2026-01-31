@@ -2,7 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=+Hey!+I'm+Duvan+Nieves;Welcome+to+my+GitHub)](https://git.io/typing-svg) 
 ### 🌦️ Data Scientist | Meterology & Machine Learning | Air quality 
 
-<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=duvancho321&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
+![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1002--7800-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-1002-7800) [![BlueSky](https://img.shields.io/badge/BlueSky-@dunieves-blue?style=flat&logo=bluesky)](https://bsky.app/profile/dunieves.bsky.social) [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/duvannieves/) 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duvancho321" alt="azz0r" /> </p>
+
 ---
 
 ## 💼 Nowadays
@@ -12,12 +15,7 @@
 - 🌱 **Learning about**: Deep Learning applied to Atmospheric Sciences
 ---
 
-![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1002--7800-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-1002-7800) [![BlueSky](https://img.shields.io/badge/BlueSky-@dunieves-blue?style=flat&logo=bluesky)](https://bsky.app/profile/dunieves.bsky.social) [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/duvannieves/) 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duvancho321" alt="azz0r" /> </p>
-
----
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=duvancho321&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
 
 ## Scientific contributions
 - [Characterizing Asymmetric Convection In Rapidly Vs. Non-Rapidly Intensifying Tropical Cyclones Using IR Imagery: An Emphasis On Predictability](https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/450758)
