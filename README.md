@@ -1,17 +1,21 @@
-# 👋 Hey! I'm Duvan Nieves
-### 🌦️ Data Scientist | Meterology & Machine Learning | Air quality
-### Welcome to my github :stuck_out_tongue_closed_eyes:
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=+Hey!+I'm+Duvan+Nieves;Welcome+to+my+GitHub)](https://git.io/typing-svg) 
+### 🌦️ Data Scientist | Meterology & Machine Learning | Air quality 
+
+<a href="https://git.io/streak-stats"><img src="https://github-streak-stats-m3h3d1.vercel.app/?user=duvancho321&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=820&card_height=312" alt="GitHub Streak" /></a>
 ---
 
 ## 💼 Nowadays
 
 - 🔭 **Data Analyst** en [SIATA](https://siata.gov.co) (Sistema de Alerta Temprana de Medellín)  
 - 🎓 **Universidad Nacional de Colombia** - Medellín  
-- 🌱 **Learning about**: Deep Learning aplicado a Ciencias Atmosféricas  
+- 🌱 **Learning about**: Deep Learning applied to Atmospheric Sciences
 ---
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1002--7800-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-1002-7800) [![BlueSky](https://img.shields.io/badge/BlueSky-@dunieves-blue?style=flat&logo=bluesky)](https://bsky.app/profile/dunieves.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-duvannieves-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/duvannieves/)
+![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1002--7800-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-1002-7800) [![BlueSky](https://img.shields.io/badge/BlueSky-@dunieves-blue?style=flat&logo=bluesky)](https://bsky.app/profile/dunieves.bsky.social) [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/duvannieves/) 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duvancho321" alt="azz0r" /> </p>
 
 ---
 
@@ -102,15 +106,18 @@
 
 ## Degree
 ```txt
-College            7 years  █████████████████████████   100.00 %
+College            8 years  █████████████████████████   100.00 %
 Master's program   someday  ███████████▓▒░░░░░░░░░░░░   50.00 %
 Doctoral program   someday  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
-### 💭 Fun Facts
+### 💭 Fun Facts :stuck_out_tongue_closed_eyes:
 
 ☕ Program better with Tea
 
 🎵 Music while coding
 
 📊 I believe beautiful graphics make the world a happier place
+
+---
+[![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=duvancho321&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=duvancho321&show_icons=true&theme=radical)
